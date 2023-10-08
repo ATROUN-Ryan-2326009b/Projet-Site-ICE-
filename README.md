@@ -57,3 +57,7 @@ Le style musical unique du groupe "ICE" les a propulsés au sommet de l'industri
 | 2010  | Début glaciale  | Intro, A l'aube, Frisson de la rue, Les temps changent, Survivre, Cœur de glace, Vibes, Leçon de vie, Lueur d'espoir |
 | 2013  | Renaissance     | Renaissance, Urban jungle, Les pouvoirs des mots, La haut, A bout de souffle, Flammes intérieur, Horizon infinie, Le retour des rois, État d'esprit |
 | 2017  | Glace et Feu    | Glace et feu, Enflammé, Esprit libre, Lumière de la ville, Visionnaire, Loin de la foule, Fusion, Un nouveau monde, Résilience |
+
+
+**Sources :** 
+Ce sont des personnages fictifs imaginés par ChatGPT.
